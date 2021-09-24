@@ -115,7 +115,7 @@ $ node bot.js
 ## Developer
   <div align="center">
     
-  [![CamilaMwol](https://github.com/Alien-alfa.png?size=100)](https://github.com/CamilaMwol)  
+  [![CamilaMwol](https://github.com/CamilaMwol.png?size=100)](https://github.com/CamilaMwol)  
 
  [CamilaMwol](https://github.com/CamilaMwol) 
          
@@ -136,7 +136,7 @@ By establishing the Lydia, you are deemed to have accepted these responsibilitie
 ## License
 
 This project is protected by `GNU General Public Licence v3.0` license.
-
+##
 
 ### Disclaimer
 
