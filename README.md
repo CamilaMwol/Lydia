@@ -60,7 +60,7 @@ Click logo to Join Bot Zone Group
 Click Lydia logo to Join Support Group 
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/GMLkjdu4k1t9iTGhJSNWFX" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
+  <a href="https://chat.whatsapp.com/GMLkjdu4k1t9iTGhJSNWFX" target="blank"><img align="center" src="https://i.imgur.com/YlG2w4b.jpeg" alt="kyrie.baran" height="180" width="200" /></a>
 </p>
     
 ## Setup
