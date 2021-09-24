@@ -30,7 +30,7 @@ Project created by <a href="https://github.com/CamilaMwol">CamilaMwol</a> to mak
 
 <h3 align="center">Contact Me:</h3>
 <p align="center">
-<a href="https://wa.me/917909139146" target="blank"><img align="center" src="https://img.shields.io/badge/CAMILAMWOL-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://wa.me/917909139146" target="blank"><img align="center" src="https://img.shields.io/badge/CLICK HERE TO CONTACT CAMILAMWOL VIA WHATSAPP-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge" alt="kyrie.baran" height="40" width="370" /></a>
 </p>
 
 
