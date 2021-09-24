@@ -23,9 +23,9 @@
             "value": "en"
         },
          "BGM_DURATION": {
-            "description": "FUNY BGM DURATION   codded by SAIDALI",
+            "description": "Select the bgm duration",
             "required": false,
-            "value": "31996800"
+            "value": "100000"
          },
          "TALKING_PINKY": {
             "description": "Hesabınızı bir Chatbot'a Çevirin! Turn your account into a chatbot!",
@@ -147,7 +147,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "\n ```I Am Alive !!!```\n\n```Type``` *.help* ```for commands``` ```Codded By CamilaMwol```"
+            "value": "\n ```I Am Alive !!!```\n\n```Type``` *.help* ```for commands```\n\n```Codded By CamilaMwol```"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
