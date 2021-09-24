@@ -48,10 +48,10 @@ Project created by <a href="https://github.com/CamilaMwol">CamilaMwol</a> to mak
 ##
   <h3 align="center"> Bot Zone Group :</h3>
 <p align="center">
-Click WA logo to Join Bot Group 
+Click logo to Join Bot Zone Group 
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/LID4rdRz3g77f3ofxqYkOb" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
+  <a href="https://chat.whatsapp.com/LID4rdRz3g77f3ofxqYkOb" target="blank"><img align="center" src="https://i.imgur.com/WCm2AcP.jpeg" alt="kyrie.baran" height="180" width="200" /></a>
 </p>
 
 ## 
